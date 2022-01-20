@@ -9,4 +9,10 @@ Bogota
 Miguel
 Oruro
 loro
+*********
+Medellin
+Manizales
+Pereira
+*********
+
 
