@@ -9,3 +9,6 @@ Bogota
 Miguel
 Oruro
 loro
+Caracas
+Maracay
+Valencia
