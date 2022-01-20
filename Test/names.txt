@@ -2,8 +2,6 @@ San Miguel de Tucuman
 Buenos Aires
 Cordoba 
 Bariloche
-
-
 La Paz
 Cbba
 Perro
@@ -15,6 +13,7 @@ Bogota
 Miguel
 Oruro
 loro
+
 *********
 Medellin
 Manizales
@@ -22,4 +21,9 @@ Pereira
 *********
 
 
+
+
+Caracas
+Maracay
+Valencia
 
