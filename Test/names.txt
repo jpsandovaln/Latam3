@@ -1,3 +1,7 @@
+Perro
+gato
+conejo
 Pedro
 Juan
 Miguel
+loro
